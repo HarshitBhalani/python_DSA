@@ -1,0 +1,5 @@
+print(3+3)
+print(3-3)
+print(3/3)
+print(3*3)
+print("I am Harshit " ,  21 , " years old")
